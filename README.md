@@ -2,7 +2,7 @@ Weather App
 Description
 
 A simple weather application that allows users to search for the current weather and view an hourly forecast for any city. It uses the OpenWeatherMap API to fetch real-time weather data. I adjusted it to be useable for all devices. 
-Here is the link to use it: https://isdomalibe.github.io/Weather-App/
+Here is the link to use it: https://isdomalibe.github.io/Weather-App-for-all-devices/
 Features
 
     Input a city name to get the current weather details.
